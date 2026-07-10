@@ -244,4 +244,4 @@ to `train_rslayout_dit.py`.
 
 ## Acknowledgement
 
-This project builds on the open-source remote-sensing generation ecosystem, including RS-FLUX, DIOR-RSVG, DOTA, and CC-Diff.
+This project builds on the open-source remote-sensing generation ecosystem, including RS-FLUX, DIOR-RSVG, DOTA, EasyControl and CC-Diff.
